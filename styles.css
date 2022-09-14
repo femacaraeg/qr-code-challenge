@@ -26,6 +26,8 @@ body {
 h1 {
   font-weight: 700;
   font-size: 20px;
+  color: var(--dark-blue);
+  margin-top: 16px;
 }
 
 p {
@@ -37,7 +39,7 @@ p {
 .card {
   background-color: var(--white);
   border-radius: 10px;
-  width: 375px;
+  width: 300px;
   margin: 0 auto;
   padding: 20px 10px;
   display: flex;
@@ -49,12 +51,12 @@ p {
 
 .qrImage {
   border-radius: 10px;
-  width: 350px;
-  height: 350px;
+  width: 280px;
+  height: 280px;
 }
 
 .subtitle {
-  margin-top: 10px;
+  margin-top: 16px;
 }
 
 .text {
